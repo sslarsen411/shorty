@@ -14,6 +14,9 @@ export default {
             fontFamily: {
                 sans: ['Figtree', ...defaultTheme.fontFamily.sans],
             },
+            backgroundImage: {
+                'google-pattern': "url('/resources/images/google-stars.webp')", 
+            },
         },
     },
     plugins: [],
