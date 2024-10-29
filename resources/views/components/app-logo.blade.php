@@ -1,2 +1,2 @@
 @props(['size'])
-<img src="{{ Vite::asset('resources/images/shari.webp')}}" class="{{$size}}" alt="Two Shakes Logo">
+<img src="{{asset('https://cdn.mojoimpact.com/twoshakes/shari.webp')}}" class="{{$size}}" alt="Two Shakes Logo">

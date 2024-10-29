@@ -15,7 +15,7 @@ export default {
                 sans: ['Figtree', ...defaultTheme.fontFamily.sans],
             },
             backgroundImage: {
-                'google-pattern': "url('/resources/images/google-stars.webp')", 
+                'google-pattern': "url('https://cdn.mojoimpact.com/twoshakes/google-stars.webp')", 
             },
         },
     },
